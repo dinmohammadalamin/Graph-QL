@@ -12,6 +12,7 @@ const schema = buildSchema(`
 `);
 
 // Define resolvers for your schema
+// tytytyrt
 const root = {
   hello: () => "Hello, world!",
   number: () => Math.random(),
